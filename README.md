@@ -1,6 +1,4 @@
-**`Desenvolvedor FullStack`**
-
-Site foi desenvolvido em HTML, CSS e JavaScript
+**`Desenvolvido com HTML, CSS e JavaScript`**
 
 <img 
     align="left" 
