@@ -1,10 +1,6 @@
-# 👩🏻‍💻 Arthur Liranço Araujo
-
 **`Desenvolvedor FullStack`**
 
-Me chamo Arthur, estou atualmente focado no estudo Full-Stack
-
-### 🤖 Linguagens e Tecnologias
+Site foi desenvolvido em HTML, CSS e JavaScript
 
 <img 
     align="left" 
