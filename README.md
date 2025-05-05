@@ -1,5 +1,3 @@
-**`Desenvolvido com HTML, CSS e JavaScript`**
-
 <img 
     align="left" 
     alt="HTML"
