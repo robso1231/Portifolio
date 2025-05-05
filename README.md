@@ -1,7 +1,5 @@
 **`Desenvolvido com HTML, CSS e JavaScript`**
 
-Veja o site aqui: https://robso1231.github.io/Portifolio/
-
 <img 
     align="left" 
     alt="HTML"
@@ -29,3 +27,6 @@ Veja o site aqui: https://robso1231.github.io/Portifolio/
 
 <br/>
 <br/>
+
+
+Veja o site aqui: https://robso1231.github.io/Portifolio/
